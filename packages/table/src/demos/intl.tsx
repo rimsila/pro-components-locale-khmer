@@ -9,6 +9,7 @@ import esESIntl from 'antd/es/locale/es_ES';
 import frFRIntl from 'antd/es/locale/fr_FR';
 import itITIntl from 'antd/es/locale/it_IT';
 import jaJPIntl from 'antd/es/locale/ja_JP';
+import kmKHIntl from 'antd/es/locale/km_KH';
 import msMYIntl from 'antd/es/locale/ms_MY';
 import ptBRIntl from 'antd/es/locale/pt_BR';
 import ruRUIntl from 'antd/es/locale/ru_RU';
@@ -34,6 +35,7 @@ const intlMap = {
   zhTWIntl,
   frFRIntl,
   ptBRIntl,
+  kmKHIntl,
 };
 
 type GithubIssueItem = {

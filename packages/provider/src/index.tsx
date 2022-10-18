@@ -15,6 +15,7 @@ import hrHR from './locale/hr_HR';
 import idID from './locale/id_ID';
 import itIT from './locale/it_IT';
 import jaJP from './locale/ja_JP';
+import kmKH from './locale/km_KH';
 import koKR from './locale/ko_KR';
 import mnMN from './locale/mn_MN';
 import msMY from './locale/ms_MY';
@@ -178,6 +179,7 @@ const msMYIntl = createIntl('ms_MY', msMY);
 const zhTWIntl = createIntl('zh_TW', zhTW);
 const frFRIntl = createIntl('fr_FR', frFR);
 const ptBRIntl = createIntl('pt_BR', ptBR);
+const kmKHIntl = createIntl('km_KH', kmKH);
 const koKRIntl = createIntl('ko_KR', koKR);
 const idIDIntl = createIntl('id_ID', idID);
 const deDEIntl = createIntl('de_DE', deDE);
@@ -203,6 +205,7 @@ const intlMap = {
   'zh-TW': zhTWIntl,
   'fr-FR': frFRIntl,
   'pt-BR': ptBRIntl,
+  'km-KH': kmKHIntl,
   'ko-KR': koKRIntl,
   'id-ID': idIDIntl,
   'de-DE': deDEIntl,
@@ -233,6 +236,7 @@ export {
   zhTWIntl,
   frFRIntl,
   ptBRIntl,
+  kmKHIntl,
   koKRIntl,
   idIDIntl,
   deDEIntl,
