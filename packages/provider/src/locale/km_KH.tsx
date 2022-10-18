@@ -64,7 +64,7 @@ export default {
       save: 'រក្សាទុក',
       cancel: 'បោះបង់',
       delete: 'លុប',
-      add: 'បន្ថែមជួរទិន្នន័យ',
+      add: 'add a row of data',
     },
   },
   switch: {
